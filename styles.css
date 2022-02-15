@@ -1,7 +1,7 @@
 body {
     background-color: black;
 
-    color: white;
+    color: ghostwhite;
     font-family: "Open Sans", sans-serif;
 
     letter-spacing: 2px;
@@ -29,7 +29,7 @@ body {
 .Links {
     text-align: center;
     margin-top: 20px;
-    border: 1px solid red;
+    border: 1px solid ghostwhite;
     border-width: 2px;
     padding: 20px;
 
@@ -46,12 +46,12 @@ body {
 a {
     text-decoration: none;
 
-    color: red;
+    color: ghostwhite;
     transform: color 1s;
 }
 
 a:hover{
     color: black;
 
-    background-color: white;
+    background-color: ghostwhite;
 }
